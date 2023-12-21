@@ -1,5 +1,11 @@
 # sql-challenge
 
+ERD
+
+![image](https://github.com/ejtagaca/sql-challenge/assets/16442065/0f092bcb-0b89-4e43-b48a-15180d43fb3c)
+
+
+
 --1. List the employee number, last name, first name, sex, and salary of each employee.
 
 
